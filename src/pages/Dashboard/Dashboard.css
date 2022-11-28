@@ -1,0 +1,13 @@
+.Posts {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content:right;
+    max-width: 100%;
+    text-align: right;
+    
+    /* margin: auto; */
+}
+/* .bar{
+    width:60%;
+    justify-content: right;
+} */
