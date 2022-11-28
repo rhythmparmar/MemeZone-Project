@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MemeZone-Project/static/css/main.04e2715a.css",
+    "main.js": "/MemeZone-Project/static/js/main.d92c619a.js",
+    "static/js/787.e88ce2e1.chunk.js": "/MemeZone-Project/static/js/787.e88ce2e1.chunk.js",
+    "index.html": "/MemeZone-Project/index.html",
+    "main.04e2715a.css.map": "/MemeZone-Project/static/css/main.04e2715a.css.map",
+    "main.d92c619a.js.map": "/MemeZone-Project/static/js/main.d92c619a.js.map",
+    "787.e88ce2e1.chunk.js.map": "/MemeZone-Project/static/js/787.e88ce2e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e2715a.css",
+    "static/js/main.d92c619a.js"
+  ]
+}
